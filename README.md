@@ -1,3 +1,3 @@
 # Sobre mim
 
-Interessada em desenvolvimento back-end e front-end. Busco sempre realizar novos desafios e procuro instigar minha curiosidade. Cursando 1º ano de Engenharia de Software. 
+Interessada em desenvolvimento back-end e front-end. Sou movida a desafios e gosto de instigar minha curiosidade. 
